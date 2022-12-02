@@ -37,9 +37,7 @@ Install them by pip command or run start.bat
  
 ### 📁・ How to use
 1. Download python 3 at [python.org](https://python.org). It must be upper than v.3
-2. Install modules by ```pip install -r requirements.txt```
-3. Replace Your settings at line 20-27
-4. Send the code or use as backdoor. Or convert to exe then give to others
+2. Install modules by ```pip install -r requirements.txt``` in cmd or install.bat
 
 ### ⚙・How to compile .py to .exe
 First, install pyinstaller using pip in cmd. ( pip install pyinstaller )
